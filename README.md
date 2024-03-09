@@ -38,7 +38,7 @@ The system architecture of the Automated Handwriting Personality Profiler involv
 4. Azure Integration: Set up Azure Blob Storage for image storage, Azure Machine Learning services for image processing and feature extraction, and Azure DevOps for project hosting and pipeline management.
 
 ### License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <!--
 ## Detailed Instructions
